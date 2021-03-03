@@ -11,7 +11,6 @@ Nele você encontrará os pequenos resumos de cada semana da disciplina junto co
 ## Como abrir
 
 - Abra as versões executaveis dos notebooks usando [Google Colab](http://colab.research.google.com): 
-## [1. Semana 1]
 
 ## Conteúdo
 
