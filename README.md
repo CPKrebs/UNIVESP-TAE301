@@ -17,4 +17,5 @@ Nele você encontrará os pequenos resumos de cada semana da disciplina junto co
 ### [1. Semana 1](https://colab.research.google.com/github/CPKrebs/UNIVESP-TAE301/blob/main/Semana1.ipynb)
 ### [2. Semana 2](https://colab.research.google.com/github/CPKrebs/UNIVESP-TAE301/blob/main/Semana2.ipynb)
 ### [3. Semana 3](https://colab.research.google.com/github/CPKrebs/UNIVESP-TAE301/blob/main/Semana3.ipynb)
+### [4. Semana 5](https://colab.research.google.com/github/CPKrebs/UNIVESP-TAE301/blob/main/Semana5.ipynb)
 
